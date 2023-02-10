@@ -116,7 +116,6 @@ CREATE TABLE IF NOT EXISTS `shop` (
 
 INSERT INTO `shop` (`shopid`, `name`, `image`, `price`) VALUES
 (49, 'pivza', 'breakfast-pizza-tea-close-up-61309461.jpg', '5,000');
-COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
